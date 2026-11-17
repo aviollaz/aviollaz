@@ -1,1 +1,32 @@
-[portfolio](https://aviollaz.github.io) · [email](mailto:fviollaz@dc.uba.ar)
+<h1>Hey, I'm André 👋</h1>
+
+I'm a **Computer Science student at UBA** 🇦🇷 and an **AI Evaluator & QA** at Outlier AI. I like building things that touch real data: scrapers, optimizers, low-level systems, and lately, security.
+
+🕵️ While building a grocery price optimizer, I found an **obfuscated card skimmer** in every product catalog of Disco, Jumbo and Vea. I reported it and it got taken down. ([Dark News covered it](#))
+
+Check out my [portfolio](https://aviollaz.github.io) · [LinkedIn](https://linkedin.com/in/andre-viollaz)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,c,go,postgres,fastapi,react,vite,docker,linux,bash,git,githubactions,gcp&perline=13" />
+</p>
+
+### 🔨 Things I've built
+
+- 🛒 **[SmartCart](https://github.com/aviollaz)**: finds the cheapest way to fill your cart across 4 Argentine supermarkets. Scrapers on GitHub Actions, pgvector product matching, OR-Tools optimization, FastAPI + React.
+- 🔍 **Skimwatch**: a Go crawler that scans online stores for client-side attacks like card skimmers.
+- 🧠 **OS kernel** in C + x86 Assembly, with a bootloader, scheduler, interrupts, paging and 4 concurrent tasks.
+- 🤖 **Review auto-responder** used across IRSA shopping centers, saving about 10 hours a month at a single mall.
+- 🎮 Merged a fix into **[osu!](https://github.com/ppy/osu/pull/36027)**.
+
+### ⚡ Right now
+
+- 📚 Finishing my CS degree (~70% done)
+- 🛡️ Getting into security research and bug bounties
+- 💼 Open to junior backend, data and security roles
+
+<details>
+<summary><b>📊 GitHub stats</b></summary>
+<br>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aviollaz&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviollaz&layout=compact&theme=github_dark&hide_border=true" />
+</details>
