@@ -1,10 +1,10 @@
 <h1>Hey, I'm André 👋</h1>
 
-I'm a **Computer Science student at UBA** 🇦🇷 and an **AI Evaluator & QA** at Outlier AI. I like building things that touch real data: scrapers, optimizers, low-level systems, and lately, security.
+I'm a **Computer Science student at UBA** 🇦🇷 and an **AI Evaluator & QA** at Outlier AI. I enjoy backend work and security.
 
-🕵️ While building a grocery price optimizer, I found an **obfuscated card skimmer** in every product catalog of Disco, Jumbo and Vea. I reported it and it got taken down. ([Dark News covered it](#))
+While building a grocery price optimizer, I found an **obfuscated card skimmer** in every product catalog of Disco, Jumbo and Vea. I reported it and it got taken down. ([Dark News covered it](#))
 
-Check out my [portfolio](https://aviollaz.github.io) · [LinkedIn](https://linkedin.com/in/andre-viollaz)
+Check out my [portfolio](https://aviollaz.github.io)
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,c,go,postgres,fastapi,react,vite,docker,linux,bash,git,githubactions,gcp&perline=13" />
@@ -16,7 +16,6 @@ Check out my [portfolio](https://aviollaz.github.io) · [LinkedIn](https://linke
 - 🔍 **Skimwatch**: a Go crawler that scans online stores for client-side attacks like card skimmers.
 - 🧠 **OS kernel** in C + x86 Assembly, with a bootloader, scheduler, interrupts, paging and 4 concurrent tasks.
 - 🤖 **Review auto-responder** used across IRSA shopping centers, saving about 10 hours a month at a single mall.
-- 🎮 Merged a fix into **[osu!](https://github.com/ppy/osu/pull/36027)**.
 
 ### ⚡ Right now
 
