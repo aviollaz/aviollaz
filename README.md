@@ -2,7 +2,7 @@
 
 I'm a **Computer Science student at UBA** 🇦🇷 and an **AI Evaluator & QA** at Outlier AI. I enjoy backend work and security.
 
-While building a grocery price optimizer, I found an **obfuscated card skimmer** in every product catalog of Disco, Jumbo and Vea. I reported it and it got taken down. ([Dark News covered it](#))
+While building a grocery price optimizer, I found an **obfuscated card skimmer** in every product catalog of Disco, Jumbo and Vea. I reported it and it got taken down. ([Dark News covered it](https://www.brodersendarknews.com/p/disco-jumbo-y-vea-un-estudiante-de))
 
 Check out my [portfolio](https://aviollaz.github.io)
 
