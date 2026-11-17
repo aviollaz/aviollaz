@@ -19,6 +19,6 @@ Check out my [portfolio](https://aviollaz.github.io)
 
 ### ⚡ Right now
 
-- 📚 Finishing my CS degree (Graduating 2027)
+- 📚 Finishing my CS degree (Class of 2027)
 - 🛡️ Getting into security research and bug bounties
 - 💼 Open to junior backend, data and security roles
