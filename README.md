@@ -1,5 +1,3 @@
-<h1>Hey, I'm André 👋</h1>
-
 I'm a **Computer Science student at UBA** 🇦🇷 and an **AI Evaluator & QA** at Outlier AI. I enjoy backend work and security.
 
 Check out my [portfolio](https://aviollaz.github.io)
