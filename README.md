@@ -10,7 +10,7 @@ Check out my [portfolio](https://aviollaz.github.io)
   <img src="https://skillicons.dev/icons?i=py,c,go,postgres,fastapi,react,docker,linux,bash,git,githubactions,gcp&perline=13" />
 </p>
 
-### 🔨 Things I've built
+### Things I've built
 
 - 🛒 **[SmartCart](https://github.com/aviollaz)**: finds the cheapest way to fill your cart across 4 Argentine supermarkets. Scrapers on GitHub Actions, pgvector product matching, OR-Tools optimization, FastAPI + React.
 - 🔍 **Skimwatch**: a Go crawler that scans online stores for client-side attacks like card skimmers.
