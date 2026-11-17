@@ -7,7 +7,7 @@ While building a grocery price optimizer, I found an **obfuscated card skimmer**
 Check out my [portfolio](https://aviollaz.github.io)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,c,go,postgres,fastapi,react,vite,docker,linux,bash,git,githubactions,gcp&perline=13" />
+  <img src="https://skillicons.dev/icons?i=py,c,go,postgres,fastapi,react,docker,linux,bash,git,githubactions,gcp&perline=13" />
 </p>
 
 ### 🔨 Things I've built
