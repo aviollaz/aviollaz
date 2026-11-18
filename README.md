@@ -6,8 +6,8 @@ Check out my [portfolio](https://aviollaz.github.io)
   <img src="https://skillicons.dev/icons?i=py,c,go,postgres,fastapi,react,docker,linux,bash,git,githubactions,gcp&perline=13" />
 </p>
 
-### ⚡ Right now
+### Right now
 
-- 📚 Finishing my CS degree (Class of 2027)
-- 🛡️ Getting into security research and bug bounties
-- 💼 Open to junior backend, data and security roles
+- Finishing my CS degree (Class of 2027)
+- Getting into security research and bug bounties
+- Open to junior backend, data and security roles
